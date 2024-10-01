@@ -43,8 +43,26 @@ gym-website-template/
 ├── index.html          # Main HTML file
 │
 └── README.md           # Project documentation 
+```
+## Dependencies
+1. WOW.js: This library is used to trigger CSS animations when the user scrolls down the page.
+2. Font Awesome: For the icons used in the navigation and other sections of the website.
+3. CSS3 & HTML5: Used for styling and structuring the web template.
 
-Dependencies
-WOW.js: This library is used to trigger CSS animations when the user scrolls down the page.
-Font Awesome: For the icons used in the navigation and other sections of the website.
-CSS3 & HTML5: Used for styling and structuring the web template.
+## Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/jyotish2002/GYM_WEBSITE.git
+```
+2. Open the index.html file in a browser.
+No additional installation is required, as this is a static website.
+
+## Customization
+To customize this template:
+
+1. Edit the content by modifying the text and images in the index.html file.
+2. Change the styles by updating the style.css file in the css folder.
+   
+### Welcome to all open-source contributors! 🎉 We appreciate your interest in contributing to this project and helping us improve this Gym Website.
+
+
